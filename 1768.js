@@ -17,3 +17,4 @@ var mergeAlternately = function(word1, word2) {
     }
     return merged
 };
+// 투포인터 활용
